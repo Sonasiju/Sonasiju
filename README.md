@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sona</h1>
-<h3 align="center">B.Tech student | Web Developer | </h3>
+<h3 align="center">B.Tech student | Web Developer  </h3>
 
 ✨ I code to connect, create, and bring ideas to life. Always curious, always exploring — especially when it comes to tech and human experiences.
 
