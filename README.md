@@ -39,6 +39,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sonasiju&theme=radical)](https://git.io/streak-stats)
 
+![Profile Views](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sonasiju&theme=github)
+
+
 
 ---
 
