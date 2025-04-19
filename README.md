@@ -2,6 +2,8 @@
 <h3 align="center">B.Tech student | Web Developer  </h3>
 
 ✨ I code to connect, create, and bring ideas to life. Always curious, always exploring — especially when it comes to tech and human experiences.
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=25&pause=1000&color=91DFF7&center=true&vCenter=true&width=435&lines=%E2%99%A2+Turning+Ideas+To+Code+%E2%99%A2)](https://git.io/typing-svg)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-siju-714aa8341)
