@@ -10,7 +10,10 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonasiju16@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FC7C34?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sona_Siju)
 
+---
 
+### 🌱 Currently Learning  :
+- Practicing DSA on [![LeetCode](https://img.shields.io/badge/LeetCode-FC7C34?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sona_Siju)
 
 ---
 
