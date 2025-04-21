@@ -7,11 +7,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sonasiju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
-
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-siju-714aa8341)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonasiju16@gmail.com)
