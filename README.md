@@ -5,6 +5,13 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=25&pause=1000&color=91DFF7&center=true&vCenter=true&width=435&lines=%E2%99%A2+Turning+Ideas+To+Code+%E2%99%A2)](https://git.io/typing-svg)
 
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sonasiju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-siju-714aa8341)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonasiju16@gmail.com)
