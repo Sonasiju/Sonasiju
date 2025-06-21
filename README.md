@@ -1,25 +1,35 @@
 <h1 align="center">Hi 👋, I'm Sona</h1>
-<h3 align="center">B.Tech student | Web Developer  </h3>
+<h3 align="center">B.Tech IT Student | Full Stack Explorer | Creative Thinker</h3>
 
-✨ I code to connect, create, and bring ideas to life. Always curious, always exploring — especially when it comes to tech and human experiences.
+<div align="center">
+✨ I code to connect, create, and bring ideas to life.<br>
+Always curious, always exploring — especially when it comes to tech and human experiences.
+
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=25&pause=1000&color=91DFF7&center=true&vCenter=true&width=435&lines=%E2%99%A2+Turning+Ideas+To+Code+%E2%99%A2)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&color=91DFF7&center=true&vCenter=true&width=435&lines=%E2%99%A2+Turning+Ideas+Into+Code+%E2%99%A2)](https://git.io/typing-svg)
+</div>
 
 ---
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-siju-714aa8341)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonasiju16@gmail.com)
+### 🌐 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sona-siju-714aa8341)](https://www.linkedin.com/in/sona-siju-714aa8341)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sonasiju16@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FC7C34?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sona_Siju)
 
 ---
 
-### 🌱 Currently Learning  :
-- Practicing DSA on [![LeetCode](https://img.shields.io/badge/LeetCode-FC7C34?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sona_Siju)
+### 🚀 Currently Working On:
+
+- 🌐 Frontend design of [Metro Revenue Dashboard](#)
+- 🔍 Learning Data Science (NPTEL Honours + ML elective)
+- 📚 Practicing DSA on LeetCode
 
 ---
 
 ### 💻 Tech Stack:
+
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,14 +48,11 @@
 
 ### 📊 GitHub Stats:
 
-![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonasiju&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonasiju&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonasiju&layout=compact&theme=radical" width="47%" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonasiju&layout=compact&theme=radical)
-
-
-
-
-
-
+---
 
 ⭐️ *Thanks for visiting! Let's build something amazing together.*
